@@ -1,6 +1,8 @@
 # Excutive-Sales-Dashboard-
 Tools used for Analysis is Tableau and MYysql
 
+Dashboard link -> https://public.tableau.com/app/profile/sumit.barua2974/viz/ExcutiveSalesDashboard_16852742875610/DashboardProfitAnalysis
+
 SQL database dump is in db_dump.sql file above. 
 
 # Data Analysis Using SQL
